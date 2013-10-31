@@ -69,6 +69,7 @@ uno.build.core=cosa
 uno.build.variant=standard
 
 atmega328.name=Cosa Arduino Duemilanove (ATmega328)
+atmega328.upload.tool=avrdude
 atmega328.upload.protocol=arduino
 atmega328.upload.maximum_size=30720
 atmega328.upload.speed=57600
